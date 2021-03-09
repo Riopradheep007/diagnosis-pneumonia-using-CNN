@@ -1,4 +1,4 @@
-# diagnosis-pneumonia-using-
+# diagnosis-pneumonia-using-CNN
 
 ## Table of content
    - Overview
