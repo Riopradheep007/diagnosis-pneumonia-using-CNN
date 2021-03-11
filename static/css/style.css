@@ -1,0 +1,62 @@
+*{
+    text-align:center;
+}
+#heading{
+  margin-top:80px;
+  color:blue;
+}
+
+.btn{
+ margin-top:140px;
+}
+#custom-button {
+padding: 10px;
+color: white;
+background-color: blue;
+border: 1px solid blue;
+border-radius: 5px;
+cursor: pointer;
+}
+
+#custom-button:hover {
+background-color: gray;
+}
+
+#custom-text {
+margin-left: 10px;
+font-family: sans-serif;
+color: #aaa;
+}
+input[type=submit] {
+padding:10px 24px;;
+color: black;
+
+border-radius: 5px;
+cursor: pointer;
+transition-duration: 0.4s;
+border: 2px solid blue;
+}
+input[type=submit]:hover{
+
+  background-color: blue; /* Green */
+  color: white;
+
+
+
+}
+#container{
+display:grid;
+width:250px;
+margin:auto;
+
+text-align:center;
+}
+.button:hover {
+background-color: #4CAF50; /* Green */
+color: white;
+}
+img{
+max-width:calc(100% - 20px);
+margin:10px;
+
+}
