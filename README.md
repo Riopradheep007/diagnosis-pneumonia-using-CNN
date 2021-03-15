@@ -10,7 +10,7 @@
    - Technologies Used
    - credits
 ## Demo
-<img src="https://user-images.githubusercontent.com/46066018/111172088-8881df00-85cb-11eb-8f04-483c121461e6.gif " width=200 height=200/>
+<img  alt=gif src="https://user-images.githubusercontent.com/46066018/111172088-8881df00-85cb-11eb-8f04-483c121461e6.gif" width=800 height=400 />
 
 ### Overview
 
