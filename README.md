@@ -37,11 +37,11 @@ Torun this model In Linux/Mac open Terminal.If you are Windows user open your co
 ### Directory Tree
       ├── Static
       │   ├── CSS
-      │      ├── style.css
+      │      ---> style.css
       │   ├── js
-      |      ├── script.js
+      |       --->script.js
       ├── templates
-      │   ├── index.html
+      │   ---> index.html
       ├── _weights.08-0.01.hdf5
       ├── app.py
       ├── procfile
