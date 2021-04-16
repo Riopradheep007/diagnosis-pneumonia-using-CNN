@@ -35,6 +35,23 @@ Torun this model In Linux/Mac open Terminal.If you are Windows user open your co
     
     
 ### Directory Tree
+      ├── Dataset
+      │   ├── sample_submission.csv
+      │   ├── test.csv
+      │   ├── train.csv
+      │   
+      ├── static
+      │   ├──style.css
+      ├── templates
+      │   ├── result.html
+      |   ├── home.html
+      ├── README.md
+      ├── Twitter Disaster Message Classifier.ipynb
+      ├── app.py
+      ├── classifier.pkl
+      ├── cvx.transform1.pkl
+      ├── requirements.txt
+      
 
   
  ### Technologies Used
