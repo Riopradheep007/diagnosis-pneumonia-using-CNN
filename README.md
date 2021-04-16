@@ -35,21 +35,16 @@ Torun this model In Linux/Mac open Terminal.If you are Windows user open your co
     
     
 ### Directory Tree
-      ├── Dataset
-      │   ├── sample_submission.csv
-      │   ├── test.csv
-      │   ├── train.csv
-      │   
-      ├── static
-      │   ├──style.css
+      ├── Static
+      │   ├── CSS
+      │      ├── style.css
+      │   ├── js
+      |      ├── script.js
       ├── templates
-      │   ├── result.html
-      |   ├── home.html
-      ├── README.md
-      ├── Twitter Disaster Message Classifier.ipynb
+      │   ├── index.html
+      ├── _weights.08-0.01.hdf5
       ├── app.py
-      ├── classifier.pkl
-      ├── cvx.transform1.pkl
+      ├── procfile
       ├── requirements.txt
       
 
