@@ -13,7 +13,8 @@
 <img  alt=gif src="https://user-images.githubusercontent.com/46066018/115009410-e571fd00-9ec9-11eb-83f5-49da42164892.png" width=1200  height=500 />
 
 ### Overview
-
+   Diagnosis pneumonia based on the x-ray images of the patient.X-ray image have to upload in the web app.Backend my deep Learning model is there
+**CNN** model will able to classify pneumonia affected images correctly.
    
 ### Motivation
 
