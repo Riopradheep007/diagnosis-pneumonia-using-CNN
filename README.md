@@ -17,6 +17,7 @@
 **CNN** model will able to classify pneumonia affected images correctly.
    
 ### Motivation
+  Build a CNN model is very much easy with the help of tensorflow library.But the inportant thing is model have to classify correctly.After undenstanding indepth mathematics behind the Deep Learning i decided to bulid one complete END-to-END project.In this pandemic time i choose this dataset from kaggle.Whwn  i was started doing this project i had faced many problem to my  this model.so 
 
 
 
