@@ -24,9 +24,9 @@ x-ray image of the patient  diagnosis pneumonia.By seeing x-ray images to identi
 
 ### Technical Aspect
 
-        - Data was colleced from  kaggle.
-        - pre-process was done with the help of libraries.
-        - CNN model was build to diagnosis pneumonia.
+        Data was colleced from  kaggle.
+        pre-process was done with the help of libraries.
+        CNN model was build to diagnosis pneumonia.
    
 
           
