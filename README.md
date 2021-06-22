@@ -1,7 +1,7 @@
 # diagnosis-pneumonia-using-CNN
 
 ## Table of content
-   - Overview
+   - [Overview](#Overview)
    - Motivation
    - Technical Aspect
    - Installation
