@@ -2,13 +2,13 @@
 
 ## Table of content
    - [Overview](#Overview)
-   - Motivation
-   - Technical Aspect
-   - Installation
-   - Run
-   - Directory Tree
-   - Technologies Used
-   - credits
+   - [Motivation](#Motivation)
+   - [Technical Aspect](#Technical-Aspect)
+   - [Installation](#Installation)
+   - [Run](#Run)
+   - [Directory Tree](#Directory-Tree)
+   - [Technologies Used](#Technologies-Used])
+   - [credits](#credits)
 ## Demo
 <img  alt=gif src="https://user-images.githubusercontent.com/46066018/115009410-e571fd00-9ec9-11eb-83f5-49da42164892.png" width=1200  height=500 />
 
